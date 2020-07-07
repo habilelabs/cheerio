@@ -29,7 +29,7 @@
     "dom-serializer": "~0.1.1",
     "entities": "~1.1.2",
     "htmlparser2": "^3.10.1",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "benchmark": "^2.1.4",
